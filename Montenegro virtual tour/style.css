@@ -15,11 +15,11 @@ th {
   /* font-weight: bold; */
 }
 
-tr:not(.header):nth-child(2n + 1) {
+tbody tr:nth-child(2n + 1) {
   background-color: #e9ecef;
 }
 
-tr:nth-child(2n) {
+tbody tr:nth-child(2n) {
   background-color: white;
 }
 
